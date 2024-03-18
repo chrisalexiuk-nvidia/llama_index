@@ -18,6 +18,7 @@ maxdepth: 1
 maxdepth: 1
 ---
 /examples/llm/anthropic.ipynb
+/cookbooks/anthropic_haiku.ipynb
 ```
 
 ## AnyScale
@@ -377,4 +378,13 @@ maxdepth: 1
 maxdepth: 1
 ---
 /examples/llm/xinference_local_deployment.ipynb
+```
+
+## ModelScope
+
+```{toctree}
+---
+maxdepth: 1
+---
+/examples/llm/modelscope.ipynb
 ```
