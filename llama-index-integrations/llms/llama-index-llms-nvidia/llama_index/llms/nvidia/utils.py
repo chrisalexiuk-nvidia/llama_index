@@ -6,8 +6,6 @@ API_CATALOG_MODELS: Dict[str, int] = {
     "google/gemma-7b",
     "meta/codellama-70b",
     "meta/llama2-70b",
-    "cohere/aya-101",
-    "cohere/command-r"
 }
 
 def playground_modelname_to_contextsize(modelname: str) -> int:
